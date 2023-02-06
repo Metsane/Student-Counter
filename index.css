@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://www.smwllc.com/wp-content/uploads/2020/02/Online-Learning-vs-Classroom-Learning-825x550.jpg");
+    background-size: cover;
+    font-family: cursive, Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.container{
+    padding: 10px;
+    background: white;
+    border: 2px solid yellow;
+    color: lightsalmon;
+   
+    max-width: 80%;
+    margin: 100px;
+    border-radius: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: yellow;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: purple;
+}
+
+#save-btn {
+    background: darkblue;
+}
+
